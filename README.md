@@ -18,7 +18,7 @@ Favorite languages are ...
 - PHP
 - MySQL
 
-- Python _Italic_
+- Python 
 
 ```
 
