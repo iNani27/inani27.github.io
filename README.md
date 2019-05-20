@@ -30,3 +30,6 @@ Favorite languages are ...
  
  2. [Portfolio](http://inani27.github.io/w3-portfolio/)
  3. [Portfolio](http://inani27.github.io/portfolio/)
+ 
+### Python Console
+ 1. [Un Labyrinthe en Python](https://inani27.github.io/Python_labyrinthe/)
