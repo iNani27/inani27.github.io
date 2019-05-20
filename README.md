@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub web's page
 
-You can use the [editor on GitHub](https://github.com/iNani27/inani27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find html code source from my web creations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to follow me on [CodeInGame] (https://www.codingame.com/profile/29673083339e4c7f9287fe112ea7d20a8667382) and even on [Scratch] (https://scratch.mit.edu/users/webin/projects/) :-) just for fun !
 
-```markdown
-Syntax highlighted code block
+```Favorite language are ...
 
-# Header 1
-## Header 2
-### Header 3
+- HTML
+- CSS
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- PHP & MySQL
 
-**Bold** and _Italic_ and `Code` text
+- 'recently ...' Python
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Complete website creation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iNani27/inani27.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 1. [Pi_Drone](https://inani27.github.io/Pi_Dr-ne/)
+ ![Image of pi_drone_website](images/pi_drone.JPG)
+ 
+ 2. [Portfolio](http://inani27.github.io/w3-portfolio/)
+ 3. [Portfolio](http://inani27.github.io/portfolio/)
+ 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
