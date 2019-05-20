@@ -1,6 +1,6 @@
 # Welcome to my GitHub web's page
 
-You can find html code source from my web creations.
+You can find `html` code source from my web creations.
 
 
 
