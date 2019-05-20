@@ -4,13 +4,15 @@ You can find html code source from my web creations.
 
 
 
-Feel free to follow me on [CodeInGame] (https://www.codingame.com/profile/29673083339e4c7f9287fe112ea7d20a8667382) and even on [Scratch] (https://scratch.mit.edu/users/webin/projects/) :-) just for fun !
+Feel free to follow me on [CodeInGame](https://www.codingame.com/profile/29673083339e4c7f9287fe112ea7d20a8667382) and even on [Scratch](https://scratch.mit.edu/users/webin/projects/) :-) just for fun !
 
 ```
 Favorite languages are ...
 
 - HTML
 - CSS
+
+- jQuery
 
 
 - PHP
