@@ -28,8 +28,6 @@ Favorite languages are ...
  1. [Pi_Drone](https://inani27.github.io/Pi_Dr-ne/)
  ![Image of pi_drone_website](https://inani27.github.io/Pi_Dr-ne/images/pi_drone.JPG)
  
- 2. [Portfolio](http://inani27.github.io/w3-portfolio/)
- 3. [Portfolio](http://inani27.github.io/portfolio/)
  
 ### Python Console
  1. [Un Labyrinthe en Python](https://inani27.github.io/Python_labyrinthe/)
